@@ -1,6 +1,8 @@
 fileignoreconfig:
-  - filename: yarn.lock
-    checksum: 0bc71a1b3fec7b128d6a46a621d3dcd8d6161a84bddcbd07cd83d91ada9004b5
-  - filename: package-lock.json
-    checksum: 680791f4e3fc6301aba4acfbcdff61cbd0d9154b3c2dca50ff0fe01351a9c626
+- filename: yarn.lock
+  checksum: cd930ba2490137ae1b2fa65b65eaaf4dc63999c877cdedd54e2cdfb352a01100
+- filename: package-lock.json
+  checksum: 4fadaee200736de87d7f7841a39aed463ff3332052c8f399b005dac9de3b966c
+- filename: src/pages/Login/Login.js
+  checksum: ea35947ac02f8156f3353cdb6b53545f51bcae9dfd2e3e522f5bec0543c8ff5c
 version: ""
